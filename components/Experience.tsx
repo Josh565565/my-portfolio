@@ -18,7 +18,7 @@ const Experience: React.FC<ExperienceProps> = ({ isDarkMode, activeColor }) => {
       ],
     },
     {
-      title: "Full-Stack Developer/Founder",
+      title: "Full-Stack Developer",
       company: "Sorobo Innovations Ltd",
       period: "December 2024 - Present",
       description: [
